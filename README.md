@@ -15,10 +15,7 @@ The contract is a complete solution for token creation, destruction, and balance
 
 ## Getting Started
 
-### Installing
-Copy the code and paste it in remix ide.
-
-### Executing program
+## Executing program
 First deploy the program. After that we can use the default address provided. Paste the address in the mint add the value Check the Balance. Also we can burn the token via burn. Add the address. Burn the token. Check the balance.
 ```
 // SPDX-License-Identifier: MIT
@@ -66,6 +63,10 @@ contract MyToken {
 ```
 
 ## Authors
-Akanksha Teja
+Metacrafter Chris
+@metacraftersio
+
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
 
